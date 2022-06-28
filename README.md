@@ -5,4 +5,4 @@ Login-Logout
 File storing 
 Hashed passwords
 GUI interface 
-Websjte
+Website
